@@ -11,6 +11,7 @@ To build a classification methodology to determine whether a person defaults the
 #### Algorihtms - K-Mean Clustring, XG Boost Classifer and Navis Bayes Classifer
 #### Accuracy Metric - AUC Score
 
+
 ### Architecture 
 
 ![Architeture](https://user-images.githubusercontent.com/66250589/115265089-8378f800-a154-11eb-8152-03f88a8e4cd4.PNG)
